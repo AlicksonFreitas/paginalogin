@@ -118,14 +118,16 @@
     background: blueviolet;
 }
 
+
 .content-box .form-box .remember{
     margin-bottom: 20px;
-    color: rgb(49, 6, 88);
+    color: rgb(40, 1, 77);
     font-weight: 400;
     font-size: 14px;
     cursor: pointer;
     display: flex;
     justify-content: space-between;
+    
 }
 
 .content-box .form-box .remember a{
